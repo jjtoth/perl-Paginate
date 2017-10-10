@@ -1,8 +1,0 @@
-Makefile
-META.yml
-MYMETA.*
-.gitignore
-~$
-\.sw.$
-/#.*#$
-.git

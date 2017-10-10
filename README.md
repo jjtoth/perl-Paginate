@@ -4,7 +4,8 @@ perl-Paginate
 Perl module that automatically pages output
 
 In theory, at least; in practice, I wrote the start of this and then abandoned
-it completely.  But I can't *quite* bring myself to deleting it.
+it completely.  But I can't *quite* bring myself to actually delete the
+repository.
 
 
 INSTALLATION
